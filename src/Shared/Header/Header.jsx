@@ -1,8 +1,11 @@
 import React from 'react';
 import logo from '/images/logo.png'
+import { Link } from 'react-router-dom';
+import './Header.css'
 
 const Header = () => {
     return (
+
         <nav >
             <div className="max-w-screen-xl px-4 py-3 mx-auto">
                 <div className="flex items-center justify-evenly">
@@ -28,6 +31,7 @@ const Header = () => {
                 </div>
             </div>
         </nav>
+
     );
 };
 
