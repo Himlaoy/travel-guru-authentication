@@ -33,7 +33,7 @@ const Home = () => {
                                 <a href="#" className=" text-white hover:underline">Company</a>
                             </li>
                             <li>
-                                <a href="#" className=" text-white hover:underline">Team</a>
+                                <Link to="term" className=" text-white hover:underline">Team</Link>
                             </li>
                             <li>
                                 <a href="#" className=" text-white hover:underline">Features</a>

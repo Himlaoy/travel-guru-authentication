@@ -18,7 +18,7 @@ const router = createBrowserRouter([
                 element:<Booking></Booking>,
             },
             {
-                path:'team',
+                path:'term',
                 element:<Team></Team>,
             }
         ]
