@@ -1,18 +1,19 @@
 [
     {
       "id": 1,
-      "photoUrl": "https://example.com/photo1.jpg",
+      "photoUrl": "/public/images/Rectangle 26.png",
       "title": "Beach Getaway in Bali"
     },
     {
       "id": 2,
-      "photoUrl": "https://example.com/photo2.jpg",
+      "photoUrl": "../../public/images/Rectangle 27.png",
       "title": "Adventure in the Andes"
     },
     {
       "id": 3,
-      "photoUrl": "https://example.com/photo3.jpg",
+      "photoUrl": "../../public/images/Rectangle 28.png",
       "title": "Cultural Immersion in Tokyo"
     }
+    
   ]
   
