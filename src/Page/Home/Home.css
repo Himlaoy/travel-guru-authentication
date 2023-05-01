@@ -1,0 +1,12 @@
+.img{
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 700px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image:linear-gradient(rgba(100, 84, 84, 0), rgb(37, 37, 75)),url("/images/Rectangle\ 1.png");
+    
+    
+
+}
