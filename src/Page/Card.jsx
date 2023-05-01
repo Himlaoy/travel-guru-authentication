@@ -6,14 +6,14 @@ const Card = ({ card }) => {
     console.log(card)
     return (
 
-        <div className='flex-row'>
-            <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div className=''>
+            <div className="max-w-sm text-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
 
-                <img className="rounded-t-lg h-96 w-full" src={photoUrl} alt="" />
+                <img className="rounded-t-lg h-72 w-full" src={photoUrl} alt="" />
 
                 <div className="p-5">
 
-                    <h2 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h2>
+                    <h1 className="mb-2 text-xl font-bold tracking-tight dark:text-white">Noteworthy technology acquisitions 2021</h1>
 
                 </div>
             </div>

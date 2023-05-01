@@ -50,7 +50,7 @@ const Home = () => {
                     <button type="button"  className="bg-amber-400 text-slate-100 p-2 rounded"><Link to='/booking'>BookingNow<FaArrowRight className='flex-nowrap'></FaArrowRight></Link> </button>
                     
                 </div>
-                <div className='flex'>
+                <div className='flex gap-2'>
                     {
                         cards.map(card=><Card key={card.id} card={card}></Card>)
                     }

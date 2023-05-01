@@ -1,17 +1,17 @@
 [
     {
       "id": 1,
-      "photoUrl": "/public/images/Rectangle 26.png",
+      "photoUrl": "/images/Rectangle 26.png",
       "title": "Beach Getaway in Bali"
     },
     {
       "id": 2,
-      "photoUrl": "../../public/images/Rectangle 27.png",
+      "photoUrl": "/images/Rectangle 27.png",
       "title": "Adventure in the Andes"
     },
     {
       "id": 3,
-      "photoUrl": "../../public/images/Rectangle 28.png",
+      "photoUrl": "/images/Rectangle 28.png",
       "title": "Cultural Immersion in Tokyo"
     }
     
